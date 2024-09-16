@@ -1,3 +1,10 @@
+body {
+      font-family: "Nunito Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+    }
+}
+}
 h1 {
     color: red;
     background-color: antiquewhite;
@@ -5,7 +12,7 @@ h1 {
 }
 p {
     color: bisque;
-    background-color: blue;
+    background-color: black;
 }
 q {
     color: yellow;
